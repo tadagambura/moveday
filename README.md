@@ -2,7 +2,7 @@
 
 **The moving-house checklist that runs itself**
 
-> #6 of 33 in the build order · Very easy · Revenue potential: Medium · Home & Household
+> #33 of 33 · Wave 3: Seasonal and episodic · Used: Once per move · Very easy · Revenue potential: Medium · Home & Household
 
 ## What it is
 
@@ -56,9 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After the move: new-home setup, then hand over to Reset and SubSpot |
 | Cadence | Daily for the 6–8 weeks of a move |
 
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
+
 ## Watch-outs
 
-Users leave after the move by design; the value is affiliate revenue and handing users on to Reset and SubSpot. The UK checklist must be kept accurate.
+Disposable by nature: people delete it after the move, which is why it's last in the build order. Worth building only as a cheap ad and affiliate earner (many people move every year). The UK checklist must be kept accurate.
 
 ## Status
 
