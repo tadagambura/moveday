@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After the move: new-home setup, then hand over to Reset and SubSpot |
 | Cadence | Daily for the 6–8 weeks of a move |
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Boxes tick off; one 'Moved in!' celebration at the end
+
+**Line we don't cross:** Moving is stressful: keep it reassuring.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.

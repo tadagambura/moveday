@@ -50,6 +50,14 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Boxes tick off; one 'Moved in!' celebration at the end
+
+**Line we don't cross:** Moving is stressful: keep it reassuring.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
