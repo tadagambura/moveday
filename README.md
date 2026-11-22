@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After the move: new-home setup, then hand over to Reset and SubSpot |
 | Cadence | Daily for the 6–8 weeks of a move |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+**Calm.** Gentle, kind humour and smooth motion: a stickman yawning after a shift, a fly escaping an empty pocket. No drama, nothing that adds stress.
 
-- Boxes tick off; one 'Moved in!' celebration at the end
+- Task ticked: the box tape seals with a zip
+- Moving day: boxes march into the van
+- Meter readings: the lightbulb flickers ('don't forget me')
+- Moved in: a 'Moved in!' banner and the front door swings open
+- Address changed: an envelope U-turns mid-air to the new address
 
 **Line we don't cross:** Moving is stressful: keep it reassuring.
 
