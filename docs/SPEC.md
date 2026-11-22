@@ -1,6 +1,6 @@
 # MoveDay: Spec
 
-**The moving-house checklist that runs itself** · #32 of 32 · Wave 3: Seasonal and episodic · Used: Once per move · Very easy · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**The moving-house checklist that runs itself** · #31 of 31 · Wave 3: Seasonal and episodic · Used: Once per move · Very easy · Revenue potential: Medium · Home & Household · Source: New (Claude)
 
 ## One-liner
 
