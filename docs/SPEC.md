@@ -1,6 +1,6 @@
 # MoveDay: Spec
 
-**The moving-house checklist that runs itself** · #6 of 33 in the build order · Very easy · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**The moving-house checklist that runs itself** · #33 of 33 · Wave 3: Seasonal and episodic · Used: Once per move · Very easy · Revenue potential: Medium · Home & Household · Source: New (Claude)
 
 ## One-liner
 
@@ -50,6 +50,11 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
+
 ## Platform & data
 
 - **Platform:** Expo app; the checklist also works as an SEO web page.
@@ -63,7 +68,7 @@ never wiped, at most one notification a day by default.
 
 ## Risks
 
-Users leave after the move by design; the value is affiliate revenue and handing users on to Reset and SubSpot. The UK checklist must be kept accurate.
+Disposable by nature: people delete it after the move, which is why it's last in the build order. Worth building only as a cheap ad and affiliate earner (many people move every year). The UK checklist must be kept accurate.
 
 ## Launch checklist
 
