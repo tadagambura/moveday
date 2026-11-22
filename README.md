@@ -1,20 +1,70 @@
 # MoveDay
 
-The moving-house checklist that runs itself
+**The moving-house checklist that runs itself**
 
-## Status
+> #6 of 33 in the build order · Very easy · Revenue potential: Medium · Home & Household
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+## What it is
+
+Enter your moving date and MoveDay gives you a week-by-week timeline (book removals, give notice, pack room by room), a UK change-of-address checklist (council tax, DVLA, GP, bank, TV licence, utilities) and a box tracker.
+
+## Why it's in the portfolio
+
+Moving is stressful, high-intent and happens to millions of people every year. Use is short but intense, and moving has some of the best honest affiliate opportunities around (removals, broadband, energy, insurance). Strong search demand for 'moving house checklist UK'.
+
+## Who it's for
+
+Renters and buyers moving home, especially first-time movers.
+
+**The problem:** Moving has dozens of deadlines and admin tasks, and things get forgotten: redirecting post, council tax, meter readings.
+
+## Version one
+
+- Countdown to moving day with a week-by-week task timeline
+- UK change-of-address checklist
+- Room-by-room packing checklist
+- Box tracker: what's in which box and which room it goes to
+- Moving-day prompts: meter readings, keys, photos
+
+**Example:** A renter moving in six weeks follows the timeline, ticks off giving notice and booking a van, and on the day gets prompted to take meter readings.
+
+## Later
+
+- Share the move with a partner
+- Removals, broadband and energy comparisons (affiliate), clearly labelled
+- First-week-in-your-new-home checklist
 
 ## How it makes money
 
-_TBD, see SPEC._
+| Model | Detail |
+|---|---|
+| Free | Timeline and checklists, with ads |
+| Premium | £3.99 one-off per move: box tracker, sharing, no ads |
+| Affiliate | Removals, broadband, energy and insurance comparisons |
 
-## Run locally
+## Why people come back
 
-_Added once the app is scaffolded._
+Built on **The Progression Loop**, the portfolio's shared retention framework
+(streaks with forgiveness, visible progress, milestones, recaps, no guilt-trips).
+
+| Stage | In MoveDay |
+|---|---|
+| Cue | This week's timeline tasks |
+| Tiny win | Tick a task |
+| Progress | Countdown and % of the move done |
+| Share | 'Moved in!' card |
+| Next step | After the move: new-home setup, then hand over to Reset and SubSpot |
+| Cadence | Daily for the 6–8 weeks of a move |
+
+## Watch-outs
+
+Users leave after the move by design; the value is affiliate revenue and handing users on to Reset and SubSpot. The UK checklist must be kept accurate.
+
+## Status
+
+Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of the App Portfolio. Marketing runs through the shared
-[growth-engine](https://github.com/tadagambura/growth-engine).
+Part of a portfolio of 33 small consumer apps that share one codebase, one retention module
+and one marketing system ([growth-engine](https://github.com/tadagambura/growth-engine)).
